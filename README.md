@@ -1,2 +1,2 @@
-# JavaScript-building-blocks
+# MDN-Frond-end-test-project
 MDN Front-end Projects Test
